@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "webscrapy"
+name = "scrapy_aosfatos"
 version = "0.1.0"
 description = ""
 authors = ["Vinicius Maciel <vinimaciel01@gmail.com>"]
